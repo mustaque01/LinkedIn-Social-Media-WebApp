@@ -115,7 +115,14 @@ const PostCard = ({ post, onDelete, onUpdate }) => {
             </div>
           </div>
         ) : (
-          <p>{post.content}</p>
+          <>
+            <p>{post.content}</p>
+            {post.image && (
+              <div className="post-image">
+                <img src={post.image} alt="Post content" />
+              </div>
+            )}
+          </>
         )}
       </div>
 

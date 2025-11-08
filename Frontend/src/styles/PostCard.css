@@ -78,6 +78,19 @@
   word-wrap: break-word;
 }
 
+.post-image {
+  margin-top: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.post-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
 .edit-form {
   display: flex;
   flex-direction: column;
