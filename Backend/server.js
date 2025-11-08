@@ -19,6 +19,8 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 const authRoutes = require('./routes/authRoutes');
+const postRoutes = require('./routes/postRoutes');
+const userRoutes = require('./routes/userRoutes');
 
 // Basic route to test server
 app.get('/', (req, res) => {
@@ -27,6 +29,8 @@ app.get('/', (req, res) => {
 
 // API Routes
 app.use('/api/auth', authRoutes);
+app.use('/api/posts', postRoutes);
+app.use('/api/users', userRoutes);
 
 // Port configuration
 const PORT = process.env.PORT || 5000;
