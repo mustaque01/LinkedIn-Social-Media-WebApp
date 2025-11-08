@@ -4,11 +4,11 @@
   "description": "Backend for LinkedIn Clone - AppDost Internship Assignment",
   "main": "server.js",
   "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=9.0.0"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node server.js",
+    "build": "echo 'No build required for backend'",
     "dev": "nodemon server.js",
     "seed": "node seedData.js"
   },
