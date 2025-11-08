@@ -24,7 +24,7 @@
       ],
       "body": {
         "type": "json",
-        "raw": "{\n  \"name\": \"Test User\",\n  \"email\": \"test@example.com\",\n  \"password\": \"password123\"\n}"
+        "raw": "{\n  \"name\": \"Md Mustak\",\n  \"email\": \"mdmustak@example.com\",\n  \"password\": \"password123\"\n}"
       },
       "tests": []
     },
@@ -40,7 +40,7 @@
       ],
       "body": {
         "type": "json",
-        "raw": "{\n  \"email\": \"test@example.com\",\n  \"password\": \"password123\"\n}"
+        "raw": "{\n  \"email\": \"mdmustak@example.com\",\n  \"password\": \"password123\"\n}"
       },
       "tests": []
     },

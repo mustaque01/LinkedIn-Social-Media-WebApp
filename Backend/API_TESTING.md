@@ -12,8 +12,8 @@ Invoke-RestMethod -Uri "http://localhost:5000" -Method Get
 ### 2. Register a New User
 ```powershell
 $body = @{
-    name = "John Doe"
-    email = "john@example.com"
+    name = "Md Mustak"
+    email = "mdmustak@example.com"
     password = "password123"
 } | ConvertTo-Json
 
@@ -23,7 +23,7 @@ Invoke-RestMethod -Uri "http://localhost:5000/api/auth/register" -Method Post -B
 ### 3. Login User
 ```powershell
 $body = @{
-    email = "john@example.com"
+    email = "mdmustak@example.com"
     password = "password123"
 } | ConvertTo-Json
 

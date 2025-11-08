@@ -268,12 +268,12 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-**Mustaque Ahmed**
+**Md Mustak**
 - **Internship:** AppDost - Full Stack Developer
 - **GitHub:** [@mustaque01](https://github.com/mustaque01)
 - **Repository:** [LinkedIn-Social-Media-WebApp](https://github.com/mustaque01/LinkedIn-Social-Media-WebApp)
 
-## � License
+## 📝 License
 
 This project is created for educational purposes as part of an internship assignment.
 
@@ -284,5 +284,3 @@ This project is created for educational purposes as part of an internship assign
 - All open-source contributors
 
 ---
-
-**Made with ❤️ using MERN Stack**

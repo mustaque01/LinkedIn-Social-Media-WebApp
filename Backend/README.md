@@ -81,8 +81,8 @@ Server will run on `http://localhost:5000`
 ```json
 POST /api/auth/register
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Md Mustak",
+  "email": "mdmustak@example.com",
   "password": "password123"
 }
 ```
@@ -91,7 +91,7 @@ POST /api/auth/register
 ```json
 POST /api/auth/login
 {
-  "email": "john@example.com",
+  "email": "mdmustak@example.com",
   "password": "password123"
 }
 ```
@@ -157,7 +157,3 @@ Backend/
 ├── package.json
 └── server.js             # Entry point
 ```
-
-## 👨‍💻 Author
-
-Created for AppDost Full Stack Developer Internship Assignment
