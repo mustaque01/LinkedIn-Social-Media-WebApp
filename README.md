@@ -648,27 +648,6 @@ VITE_API_URL=https://linkedin-social-media-webapp-1.onrender.com/api
 
 ---
 
-## 👨‍💻 Author
-
-**Md Mustak**
-
-- **Role:** Full Stack Developer Intern
-- **Company:** AppDost
-- **Email:** Your email here
-- **GitHub:** [@mustaque01](https://github.com/mustaque01)
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
-
----
-
-## 📄 License
-
-This project is created for educational purposes as part of the AppDost Full Stack Developer Internship assignment.
-
-**Copyright © 2025 Md Mustak. All rights reserved.**
-
----
-
 ## 🙏 Acknowledgments
 
 - **AppDost** - For providing the internship opportunity and project requirements
@@ -680,24 +659,6 @@ This project is created for educational purposes as part of the AppDost Full Sta
 - **All Open Source Contributors** - For the amazing tools and libraries
 
 ---
-
-## 📞 Support
-
-For any questions or issues:
-
-1. **Create an Issue:** [GitHub Issues](https://github.com/mustaque01/LinkedIn-Social-Media-WebApp/issues)
-2. **Email:** your.email@example.com
-3. **Documentation:** Check `DEPLOYMENT.md` for deployment help
-
----
-
-## 🌟 Star this Repository
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-**Built with ❤️ using MERN Stack | © 2025 Md Mustak**
 
 ## 🚀 Features
 
@@ -966,18 +927,9 @@ JWT_SECRET=your_secret_key
 ## 👨‍💻 Author
 
 **Md Mustak**
-- **Internship:** AppDost - Full Stack Developer
 - **GitHub:** [@mustaque01](https://github.com/mustaque01)
 - **Repository:** [LinkedIn-Social-Media-WebApp](https://github.com/mustaque01/LinkedIn-Social-Media-WebApp)
 
 ## 📝 License
 
 This project is created for educational purposes as part of an internship assignment.
-
-## 🙏 Acknowledgments
-
-- AppDost for the internship opportunity
-- MERN stack community for excellent documentation
-- All open-source contributors
-
----
